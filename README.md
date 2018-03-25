@@ -1,6 +1,6 @@
 # simpleObjectClassification
-Simple object detection script using tensorflow and Inception v3/v4
-Extremley simple step by step guide to use for beginners
+Simple object detection script using tensorflow and Inception v3/v4.
+Extremely simple step by step guide to use for beginners
 
 To Use:
 1)  Make sure you have python3 installed on your linux computer:  
